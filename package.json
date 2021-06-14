@@ -1,0 +1,14 @@
+{
+  "name": "npm__gitalent_git",
+  "version": "0.1.0",
+  "description": "npm__gitalent_git is about....",
+  "author": "Andy Anderyan <andy.anderyan@gmail.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [],
+  "homepage": "http://null",
+  "license": "ISC"
+}
